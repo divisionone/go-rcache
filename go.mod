@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/divisionone/go-micro v1.2.2-0.20220330054725-16024c10ee32
-	github.com/micro/go-log v0.1.0
+	github.com/divisionone/micro-go-log v0.0.0-20220329225141-38dfc0353446
 )
 
 require (
