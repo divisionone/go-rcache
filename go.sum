@@ -8,8 +8,8 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/divisionone/go-micro v1.2.1 h1:DJy/IctQpcTOkyffVCEVWwE07pmrj7/8OLZSPxJhulQ=
 github.com/divisionone/go-micro v1.2.1/go.mod h1:+WRpkCsvKxIQqwgbdnb2PvsuxtQeE1qVALRl4KeSPW0=
-github.com/divisionone/micro-go-log v0.0.0-20220418230942-8cae87b895f4 h1:g/HMN0oP1gfXtmhZDYHPaHDj6awj82rXnwOiZy1fTpQ=
-github.com/divisionone/micro-go-log v0.0.0-20220418230942-8cae87b895f4/go.mod h1:q6XKLhgDSDRoXYepQqFaSiQnhgOEkgPi+Csh+YfoR1U=
+github.com/divisionone/micro-go-log v0.0.0-20220418232529-4361a503ea3a h1:vfGVHNqRlIk3pPVm0HJ2Rlpc+YmSeTvK9NL/Q3dv0vc=
+github.com/divisionone/micro-go-log v0.0.0-20220418232529-4361a503ea3a/go.mod h1:q6XKLhgDSDRoXYepQqFaSiQnhgOEkgPi+Csh+YfoR1U=
 github.com/fatih/color v1.7.0/go.mod h1:Zm6kSWBoL9eyXnKyktHP6abPY2pDugNf5KwzbycvMj4=
 github.com/fatih/color v1.9.0 h1:8xPHl4/q1VyqGIPif1F+1V3Y3lSmrq01EabUW3CoW5s=
 github.com/fatih/color v1.9.0/go.mod h1:eQcE1qtQxscV5RaZvpXrrb8Drkc3/DdQ+uUYCNjL+zU=
