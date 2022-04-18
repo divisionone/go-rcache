@@ -3,7 +3,7 @@ module github.com/divisionone/go-rcache
 go 1.17
 
 require (
-	github.com/divisionone/go-micro v1.2.1
+	github.com/divisionone/go-micro v0.0.0-20220418234210-0f996366e1ba
 	github.com/divisionone/micro-go-log v0.0.0-20220418232529-4361a503ea3a
 )
 
@@ -17,8 +17,8 @@ require (
 	github.com/hashicorp/go-immutable-radix v1.0.0 // indirect
 	github.com/hashicorp/go-rootcerts v1.0.2 // indirect
 	github.com/hashicorp/golang-lru v0.5.0 // indirect
-	github.com/hashicorp/serf v0.9.0 // indirect
-	github.com/mattn/go-colorable v0.1.4 // indirect
+	github.com/hashicorp/serf v0.9.6 // indirect
+	github.com/mattn/go-colorable v0.1.6 // indirect
 	github.com/mattn/go-isatty v0.0.12 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/mitchellh/hashstructure v1.1.0 // indirect
