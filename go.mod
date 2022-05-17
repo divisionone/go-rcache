@@ -3,7 +3,7 @@ module github.com/divisionone/go-rcache
 go 1.17
 
 require (
-	github.com/divisionone/go-micro v1.2.2-0.20220512025950-92ae17a1e740
+	github.com/divisionone/go-micro v1.2.2-0.20220513042919-59634c70dfee
 	github.com/divisionone/micro-go-log v0.0.0-20220401021801-5024c5e56f11
 )
 
